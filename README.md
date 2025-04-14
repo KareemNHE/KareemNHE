@@ -1,5 +1,5 @@
-<h1><b>👋 Hi there, I'm Kareem Eid
-I'm a final-year Computer Science student at Sheffield Hallam University, passionate about crafting innovative software solutions that address real-world challenges. My journey in technology is driven by a commitment to continuous learning and a desire to make impactful contributions.</b></h1>
+<h1>👋 Hi there, I'm Kareem Eid
+I'm a final-year Computer Science student at Sheffield Hallam University, passionate about crafting innovative software solutions that address real-world challenges. My journey in technology is driven by a commitment to continuous learning and a desire to make impactful contributions.</h1>
 
 <h2><b>💻 Technical Skills:</b></h2>
 
