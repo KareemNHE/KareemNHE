@@ -1,7 +1,7 @@
 👋 Hi there, I'm Kareem Eid
 I'm a final-year Computer Science student at Sheffield Hallam University, passionate about crafting innovative software solutions that address real-world challenges. My journey in technology is driven by a commitment to continuous learning and a desire to make impactful contributions.
 
-💻 Technical Skills:
+<b>💻 Technical Skills:</b>
 
 Languages: C++, C#, Python, Dart, JavaScript, PHP​
 
